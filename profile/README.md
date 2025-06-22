@@ -1,6 +1,5 @@
 A community-driven initiative empowering students and early-career developers to master software engineering through **real-world projects**, **open-source contributions**, and **peer learning**.
 
----
 
 ### What We Do
 
@@ -9,4 +8,3 @@ A community-driven initiative empowering students and early-career developers to
 -  **Experiment & Learn**: Get hands-on experience with modern tech stacks (React, Elixir, Node.js, Blockchain, AI, etc).
 -  **Community & Collaboration**: Team-based projects, code reviews, and knowledge sharing.
 
----

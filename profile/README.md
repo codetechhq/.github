@@ -1,6 +1,4 @@
-> Building the next generation of software engineers.
-
-Welcome to CodeTech HQ — a community-driven initiative empowering students and early-career developers to master software engineering through **real-world projects**, **open-source contributions**, and **peer learning**.
+A community-driven initiative empowering students and early-career developers to master software engineering through **real-world projects**, **open-source contributions**, and **peer learning**.
 
 ---
 
@@ -12,9 +10,3 @@ Welcome to CodeTech HQ — a community-driven initiative empowering students and
 -  **Community & Collaboration**: Team-based projects, code reviews, and knowledge sharing.
 
 ---
-
-We love:
-- **Frontend**: React, Next.js, Tailwind CSS
-- **Backend**: Elixir, Node.js, PostgreSQL
-- **DevOps**: Docker, GitHub Actions, AWS, Vercel
-- **Others**: Solidity, GraphQL, TypeScript
